@@ -37,6 +37,7 @@ public class Persona {
         this.nombre = nombre;
         this.apellidos = apellidos;
         this.edad = edad;
+	//Segundo comentario desde GIT
     }
 
     public String getDni() {

@@ -17,7 +17,7 @@ public class claseCualquiera {
          // Instanciamos personas
         Scanner teclado = new Scanner (System.in);
       
-              
+         //Comentario desde GITx     
         /* 
          if (Persona.validarDNI(dni)){
          
@@ -48,6 +48,7 @@ public class claseCualquiera {
       //   per3.updateEdad();
       //   per3.imprime();
          
+
          /*
         System.out.println("La persona con DNI: " + per2.getDni() + " ¿es menor de edad? --> " + per2.esMenor());
          System.out.println("La persona con DNI: " + per3.getDni() + " ¿es menor de edad? --> " + per3.esMenor());
